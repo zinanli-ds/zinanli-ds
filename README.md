@@ -1,5 +1,5 @@
 
-# Hi, I'm Zinan 👋
+# Hi, I'm Z 👋
 
 ### Data Scientist | Machine Learning Engineer | Financial Services & Applied AI
 
@@ -48,12 +48,14 @@ Exploring LLM-powered applications and agent-based workflows that automate data 
 
 - Microsoft Certified: Azure Data Scientist Associate
 - Microsoft Certified: Fabric Analytics Engineer Associate
-  
+
 ## 📫 Connect With Me
 
+- LinkedIn: [Zinan Li](https://www.linkedin.com/in/zinanli/)
 - GitHub: [@dsnewbie2021](https://github.com/dsnewbie2021)
-- Email: lizinan@gmail.com
+- Email: [lizinan@gmail.com](mailto:lizinan@gmail.com)
 
 ---
 
 *Building practical data science and AI solutions through continuous learning and hands-on projects.*
+
