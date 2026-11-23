@@ -52,7 +52,7 @@ Exploring LLM-powered applications and agent-based workflows that automate data 
 ## 📫 Connect With Me
 
 - LinkedIn: [Zinan Li](https://www.linkedin.com/in/zinanli/)
-- GitHub: [@dsnewbie2021](https://github.com/dsnewbie2021)
+- GitHub: [@dsnewbie2021](https://github.com/zinanli-ds)
 - Email: [lizinan@gmail.com](mailto:lizinan@gmail.com)
 
 ---
